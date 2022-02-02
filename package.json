@@ -1,0 +1,25 @@
+{
+  "name": "VideoCall",
+  "version": "1.0.0",
+  "description": "Repositorio de Video Llamada\r Juan Daniel Pérez Argel",
+  "main": "index.js",
+  "scripts": {
+    "start_dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juandaniel20/VideoCall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juandaniel20/VideoCall/issues"
+  },
+  "homepage": "https://github.com/juandaniel20/VideoCall#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1"
+  }
+}
